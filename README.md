@@ -6,7 +6,6 @@
 [![npm version](https://img.shields.io/npm/v/@seneca/config.svg)](https://npmjs.com/package/@seneca/config)
 [![build](https://github.com/senecajs/seneca-config/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-config/actions/workflows/build.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-config/badge.svg)](https://snyk.io/test/github/senecajs/seneca-config)
-[![npm version](https://badge.fury.io/js/%40seneca%2Fconfig.svg)](https://badge.fury.io/js/%40seneca%2Fconfig)
 [![Build](https://github.com/senecajs/seneca-config/workflows/build/badge.svg)](https://github.com/senecajs/seneca-config/actions?query=workflow%3Abuild)
 [![Coverage Status](https://coveralls.io/repos/github/senecajs/seneca-config/badge.svg?branch=main)](https://coveralls.io/github/senecajs/seneca-config?branch=main)
 [![Maintainability](https://api.codeclimate.com/v1/badges/17d7d12f1360d7cbf45c/maintainability)](https://codeclimate.com/github/senecajs/seneca-config/maintainability)
