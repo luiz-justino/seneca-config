@@ -16,13 +16,13 @@
 
 ## Install
 
-```sh
+```
 npm install @seneca/config
 ```
 
 ## Quick Example
 
-```js
+```
 require('seneca')()
   .use('@seneca/config')
 ```
@@ -55,7 +55,7 @@ The [Senecajs org](https://github.com/senecajs/) encourages open participation. 
 
 ### Running tests
 
-```sh
+```
 npm run test
 ```
 
